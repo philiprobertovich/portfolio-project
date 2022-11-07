@@ -1,0 +1,61 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+body {
+  background-color: aqua;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.intro{
+  font-size: medium;
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: solid black;
+  padding: 4px;
+  border-width: 4px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+.about-me{
+  width: 50%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: solid black;
+  padding: 4px;
+  border-width: 4px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  float: right;
+}
+
+.hobbies {
+  width: 33%;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  border: solid black;
+  padding: 4px;
+  border-width: 4px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.highlight {
+  color: red;
+}
+
+.other-highlight {
+  color: blue;
+}
